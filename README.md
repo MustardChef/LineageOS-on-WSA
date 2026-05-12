@@ -4,7 +4,7 @@
 
 ## Supported Archetecture
 
-✅ Working &nbsp; &nbsp; | &nbsp; &nbsp;   🚧 Work In Progress  &nbsp; &nbsp;  | &nbsp; &nbsp;  🚫 Not Tested
+✅ Supported &nbsp; &nbsp; | &nbsp; &nbsp;   🚧 Work In Progress  &nbsp; &nbsp;  | &nbsp; &nbsp;  🚫 Not Supported
 
 ---
 
@@ -15,7 +15,7 @@
 
 ## Available LineageOS Version:
 
-✅ Working &nbsp; &nbsp; | &nbsp; &nbsp;   🚧 Work In Progress  &nbsp; &nbsp;  | &nbsp; &nbsp;  🚫 Not Tested
+✅ Available &nbsp; &nbsp; | &nbsp; &nbsp;   🚧 Work In Progress  &nbsp; &nbsp;  | &nbsp; &nbsp;  🚫 Not Available
 
 ---
 
